@@ -33,3 +33,8 @@ Este projeto foi desenvolvido utilizando Power BI com o objetivo de analisar o d
 ## Arquivos
 
 * Walmart.csv
+
+## Dashboard
+
+<img width="1214" height="683" alt="image" src="https://github.com/user-attachments/assets/065ad0e2-75b0-4b20-8cd9-dd98c464e59e" />
+
